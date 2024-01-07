@@ -10,5 +10,6 @@ node.js 20.10.0 <br/>
 Visual Studio Code<br/>
 - Extensions (Vetur, HTML CSS Support, vue 3 snippets)
 
-### 프로젝트 만들기
- - vue create "프로젝트명"
+### 프로젝트 만들기 및 실행
+ - vue create "프로젝트명" <br/>
+ - npm run serve (개발 서버 실행)<br/>
