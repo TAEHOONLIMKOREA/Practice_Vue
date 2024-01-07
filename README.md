@@ -1,6 +1,6 @@
 # practice_vue
 
-###개발환경:
+### 개발환경:
 Window 11<br/>
 node.js 20.10.0 <br/>
 - vue/cli 설치<br/>
@@ -10,5 +10,5 @@ node.js 20.10.0 <br/>
 Visual Studio Code<br/>
 - Extensions (Vetur, HTML CSS Support, vue 3 snippets)
 
-###프로젝트 만들기
+### 프로젝트 만들기
  - vue create "프로젝트명"
